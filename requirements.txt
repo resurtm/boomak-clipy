@@ -1,3 +1,6 @@
--e git+git@github.com:resurtm/boomak-clipy.git@54abc0e19066254af692366d4a68088371c6e0d5#egg=boomak_clipy
+certifi==2017.7.27.1
+chardet==3.0.4
 click==6.7
-pkg-resources==0.0.0
+idna==2.6
+requests==2.18.4
+urllib3==1.22

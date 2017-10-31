@@ -31,5 +31,11 @@ setup(
     zip_safe=False,
     install_requires=[
         'click',
+        'requests',
     ],
+    entry_points={
+        'console_scripts': [
+            'bmkp=boomak_clipy.__main__:cli',
+        ],
+    }
 )
