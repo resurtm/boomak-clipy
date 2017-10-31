@@ -1,0 +1,10 @@
+/.idea/
+/clipy_venv[23]/
+/*.egg-info/
+*.py[doc]
+__pycache/
+/build/
+/dist/
+/coverage/
+/.coverage
+/coverage.txt

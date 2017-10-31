@@ -1,0 +1,3 @@
+graft boomak_clipy
+global-exclude __pycache__
+global-exclude *.py[doc]
