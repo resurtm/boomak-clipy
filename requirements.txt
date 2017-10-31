@@ -1,4 +1,3 @@
-## !! Could not determine repository location
-boomak-clipy==0.0.1
+-e git+git@github.com:resurtm/boomak-clipy.git@54abc0e19066254af692366d4a68088371c6e0d5#egg=boomak_clipy
 click==6.7
 pkg-resources==0.0.0
